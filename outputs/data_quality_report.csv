@@ -1,0 +1,11 @@
+Metric,Value
+Total records,1033036
+Total columns,17
+Duplicate rows,0
+Missing descriptions,1291
+Missing customer IDs,235151
+Negative quantities,22496
+Zero quantities,0
+Negative prices,5
+Zero prices,6014
+Missing transaction values,0

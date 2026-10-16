@@ -1,0 +1,11 @@
+Metric,Value
+Total Records,525461
+Total Columns,8
+Exact Duplicate Records,6865
+Missing Descriptions,2928
+Missing Customer IDs,107927
+Negative Quantities,12326
+Zero Quantities,0
+Negative Prices,3
+Zero Prices,3687
+Cancellation-Style Invoice Records,10206
